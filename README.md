@@ -1,4 +1,4 @@
-### Hi there 👋
+### 很高兴见到你 👋
 
 <!--
 **Hemione521/Hemione521** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+我是Hemione
+ 🔭公众号：Android进阶之旅，欢迎关注交流
