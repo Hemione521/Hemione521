@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**I'm Hemione**
+🔭公众号：Android进阶之旅，欢迎关注交流
 
-我是Hemione
- 🔭公众号：Android进阶之旅，欢迎关注交流
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Hemione521&show_icons=true&icon_color=FF6B00&text_color=718096&bg_color=ffffff&hide_title=true" />
